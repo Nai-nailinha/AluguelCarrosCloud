@@ -53,10 +53,10 @@ Função isolada para processamento de pagamentos:
 ## 📸 Prints do Projeto
 
 ### Arquitetura Representada:
-![Arquitetura cloud-native](https://user-images.githubusercontent.com/your-cloud-native-diagram.png)
+![Arquitetura cloud-native](Imagens/cloud-native-diagram.png)
 
 ### Tela simulada:
-![Exemplo de interação](https://user-images.githubusercontent.com/your-car-rent-ui-simulation.png)
+![Exemplo de interação](Imagens/rent-ui-simulation.png)
 
 > *(Substitua pelos prints reais ou use as imagens geradas por IA)*
 
